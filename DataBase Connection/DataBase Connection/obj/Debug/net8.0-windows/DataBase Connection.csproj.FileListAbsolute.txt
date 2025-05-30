@@ -1,0 +1,24 @@
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.csproj.AssemblyReference.cache
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase_Connection.Form1.resources
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.csproj.GenerateResource.cache
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.AssemblyInfoInputs.cache
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.AssemblyInfo.cs
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.csproj.CoreCompileInputs.cache
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\DataBase Connection.exe
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\DataBase Connection.deps.json
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\DataBase Connection.runtimeconfig.json
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\DataBase Connection.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\DataBase Connection.pdb
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase.95553285.Up2Date
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\refint\DataBase Connection.dll
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.pdb
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\DataBase Connection.genruntimeconfig.cache
+E:\Visual Programming\DataBase Connection\DataBase Connection\obj\Debug\net8.0-windows\ref\DataBase Connection.dll
